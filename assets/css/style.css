@@ -1,0 +1,84 @@
+body {
+
+    font-family: 'Ubuntu', sans-serif;
+    line-height: 1.33rem;
+    background-image: url(../images/gravel.png);
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    background-image: url(../images/subtle_white_mini_waves.png);
+    border-radius: 5%;
+}
+
+
+h1 {
+    font-family: 'Roboto', sans-serif;
+    font-weight: bolder;
+
+
+}
+
+.h1, h1 {
+    font-size: 2.25rem;
+}
+
+
+.container {
+    background-color: #fff;
+    margin-top: 75px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    width: 100%;
+    max-width: 960px;
+    margin-bottom: 175px;
+}
+
+.mine {
+    padding-right: 20px;
+    padding-bottom: 20px;
+}
+
+.card {
+    margin: auto;
+    margin-bottom: 40px;
+    
+}
+
+.page-footer {
+    padding: 30px 0;
+    clear: both;
+    font-size: 12px;
+    color: #ffffff;
+    color: #cccccc;
+    text-align: center;
+    background: #949494; 
+    border-top: 8px solid #a5a5a5;
+    height: 50px;
+}
+
+
+.card-body {
+        position: absolute;
+        bottom: 10px;
+        width: 100%;
+        padding: 5px;
+        margin-bottom: 0;
+        font-weight: 300;
+        line-height: 30px;
+        color: #ffffff;
+        text-align: center;
+        background: #4aaaa5;
+        border-bottom: 0;
+      
+}
+
+.col-6-lg, .col-12-lg {
+    padding-left: 125px;
+    padding-right: 50px;
+}
+
+.navbar-brand {
+    font-size: 28px;
+}
